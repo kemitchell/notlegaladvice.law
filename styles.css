@@ -40,9 +40,9 @@ h1 {
 }
 
 blockquote {
+  font-size: 125%;
   margin: 0;
   padding: 0;
-  font-size: 125%;
 }
 
 p {
