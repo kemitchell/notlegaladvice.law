@@ -17,7 +17,7 @@ In other words, these phrases work like disclaimers.  The usual guarantees about
 
 Several reasons:
 
-When a legal professional _becomes a client's lawyer_, creating an _attorney-client relationship_, the lawyer becomes professionally and legally responsible to the client for the advice and service they give.  This usually happens when lawyer and client sign a written _engagement letter_.  But lawyers and clients can create professional relationships without written agreement, too.
+When a legal professional _becomes a client's lawyer_, creating an _attorney-client relationship_, the lawyer becomes professionally and legally responsible to the client for the advice and service they give.  This usually happens when lawyer and client sign a written _engagement letter_.  But lawyers and clients can create professional relationships without written agreement, and without payment, too.
 
 If the lawyer gives particularly bad advice or fails to meet professional standards like competence and responsiveness, their bar association can punish them.  In really serious cases, the client might even be able to sue them for legal malpractice.  Several lawyers each year get _disbarred_, losing their license to practice law.
 
