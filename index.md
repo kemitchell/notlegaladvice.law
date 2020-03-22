@@ -37,4 +37,4 @@ However, there are situations when a disclaimer about legal information should d
 
 ## How can I help improve this page?
 
-E-mail your suggestions to [kyle@kemitchell.com](mailto:kyle@kemitchell.com).
+E-mail your suggestions to [kyle@kemitchell.com](mailto:kyle@kemitchell.com), or, if you prefer, collaborate directly [on GitHub](https://github.com/kemitchell/notlegaladvice.law).
