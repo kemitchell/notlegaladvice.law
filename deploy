@@ -1,2 +1,7 @@
+#!/bin/sh
+set -e
 SITE=notlegaladvice.law
-rsync -a --delete $(git ls-files | fgrep -v deploy) "$SITE:/var/www/$SITE/"
+rm -rf _site
+bundler install --quiet
+bundler exec jekyll build --quiet
+rsync -4 -a --delete _site/ "$SITE:/var/www/$SITE/"
