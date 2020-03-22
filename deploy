@@ -1,0 +1,2 @@
+SITE=notlegaladvice.law
+rsync -a --delete $(git ls-files | fgrep -v deploy) "$SITE:/var/www/$SITE/"
