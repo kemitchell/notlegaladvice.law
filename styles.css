@@ -17,10 +17,10 @@ html {
   text-rendering: optimizeLegibility;
 }
 
-body > header,
-body > nav,
-body > main,
-body > footer {
+header[role=banner],
+nav[role=navigation],
+main[role=main],
+footer[role=contentinfo] {
   display: block;
   margin: 1rem auto;
   max-width: 33rem;
