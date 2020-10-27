@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 > "This is not legal advice."
