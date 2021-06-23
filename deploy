@@ -1,7 +1,4 @@
 #!/bin/sh
 set -e
 SITE=notlegaladvice.law
-rm -rf _site
-bundler install --quiet
-bundler exec jekyll build --quiet
-rsync -4 -a --delete _site/ "$SITE:/var/www/$SITE/"
+exec scp ./index.html ./styles.css "$SITE:/var/www/$SITE/"
