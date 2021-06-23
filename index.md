@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Notice
+
+You were redirected to this URL by an individual or organization sharing information with you. It is important that you understand that this information is **not legal advice** and that the individual or organization providing it is either *not a lawyer* or *not your lawyer*. This means that the individual or organization that provided the information does not guarantee it to be accurate and does not take any professional responsibility for the information. The information could be wrong or it could not fit your specific situation. You can not take any recourse on the provider of this information for the content of the information provided, even if the information is materially false, incorrect, or inapplicable. If you need legal advice, you are advised to hire an attorney.
+
 > "This is not legal advice."
 >
 > "I'm a lawyer, but I'm not _your_ lawyer."
