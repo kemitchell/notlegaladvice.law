@@ -32,7 +32,7 @@ What's more, when lawyers talk informally about law, they often generalize.  Jus
 
 If you take a piece of furniture left on the curbside for the trash, or receive a hand-me-down gadget or appliance from a friend, you likely understand that it comes "as is", without any guarantees.  That's a bit like what's happening when lawyers share legal information with a disclaimer that they won't be held responsible.
 
-That does't mean the lawyer can be wrong, or intentionally misrepresent the law, totally without consequences.  Many lawyers rely heavily on their reputations, both to attract new clients and to maintain respect with their peers.  Being known for misunderstanding the law can be almost as bad for a lawyer's business as losing their license.
+That doesn't mean the lawyer can be wrong, or intentionally misrepresent the law, totally without consequences.  Many lawyers rely heavily on their reputations, both to attract new clients and to maintain respect with their peers.  Being known for misunderstanding the law can be almost as bad for a lawyer's business as losing their license.
 
 However, there are situations when a disclaimer about legal information should definitely cause suspicion.  When a lawyer has a professional relationship with someone else, and their goals are different than yours, you really want a lawyer of your own to read and explain the law from your point of view.  Bar rules also prevent lawyers from talking separately about legal matters with non-lawyers that they know have lawyers of their own.  When both sides have lawyers, clients should talk to clients and lawyers should talk to lawyers.  When exceptions happen, everyone should be present at the meeting, on the call, or copied on the e-mail.
 
