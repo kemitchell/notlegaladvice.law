@@ -1,4 +1,4 @@
 #!/bin/sh
 set -e
 SITE=notlegaladvice.law
-exec scp ./index.html ./styles.css "$SITE:/var/www/$SITE/"
+exec scp ./index.html "$SITE:/var/www/$SITE/"
