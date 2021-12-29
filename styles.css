@@ -18,7 +18,6 @@ html {
 }
 
 body > header,
-body > nav,
 body > main,
 body > footer {
   display: block;
@@ -93,9 +92,5 @@ body > footer ul li:last-child:after {
     margin: 1rem 0;
     max-width: max-content;
     padding: 0;
-  }
-
-  body > nav {
-    display: none;
   }
 }
